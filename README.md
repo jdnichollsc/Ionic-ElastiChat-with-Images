@@ -9,7 +9,7 @@
 
 # Demo
 
-Do you want to see this starter in action? Visit https://jdnichollsc.github.io/Ionic-ElastiChat-with-Images yay!
+Do you want to see this chat in action? Visit https://jdnichollsc.github.io/Ionic-ElastiChat-with-Images yay!
 
 #Instructions
 
