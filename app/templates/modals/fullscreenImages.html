@@ -1,0 +1,9 @@
+<ion-modal-view class="fullScreenImagesView" on-swipe-down="closeModal()" ng-click="closeModal()">
+    <ion-content overflow-scroll="false" has-bouncing="true">
+        <ion-slide-box on-slide-changed="slideChanged(index)" show-pager="{{allImages.length > 1}}" active-slide="activeSlide">
+            <ion-slide ng-repeat="image in allImages track by $index">
+                <img ng-src="{{image}}" class="fullscreen-image"/>
+            </ion-slide>
+        </ion-slide-box>
+    </ion-content>
+</ion-modal-view>

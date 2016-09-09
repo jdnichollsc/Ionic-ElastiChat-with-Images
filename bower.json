@@ -1,0 +1,30 @@
+{
+  "name": "App",
+  "private": true,
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#master"
+  },
+  "preen": {
+    "angular-elastic": [
+      "*.js"
+    ],
+    "angular-moment": [
+      "*.js"
+    ],
+    "Autolinker.js": [
+      "dist/*.js"
+    ],
+    "moment": [
+      "min/*.js"
+    ],
+    "ngCordova": [
+      "dist/ng-cordova.min.js"
+    ]
+  },
+  "dependencies": {
+    "Autolinker.js": "^1.1.0",
+    "moment": "^2.14.1",
+    "angular-moment": "^0.10.3",
+    "angular-elastic": "^2.5.1"
+  }
+}

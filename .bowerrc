@@ -1,0 +1,9 @@
+{
+  "directory": "www/lib",
+  "ignoredDependencies": [
+    "angular",
+    "angular-animate",
+    "angular-ui-router",
+    "angular-sanitize"
+  ]	
+}
