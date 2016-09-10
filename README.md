@@ -10,6 +10,7 @@
 # Demo
 
 Do you want to see this chat in action? Visit https://jdnichollsc.github.io/Ionic-ElastiChat-with-Images yay!
+> Automatically deployed to GitHub Pages using Gulp - Check the **last task** into [gulpfile.js](https://github.com/jdnichollsc/Ionic-Starter-Template/blob/master/gulpfile.js)
 
 #Instructions
 
