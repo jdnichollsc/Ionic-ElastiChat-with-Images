@@ -23,6 +23,14 @@ Do you want to see this chat in action? Visit https://jdnichollsc.github.io/Ioni
    
 ### **Note**: This project structure is based on my free **[Ionic Starter Template](http://market.ionic.io/starters/ionic-starter-template)**, you can migrate any Ionic 1.x project to this template to use Gulp in the best way. 
 
+# Other Projects
+- **[Ionic Starter Template](http://market.ionic.io/starters/ionic-starter-template)**
+- **[IonPhaser](http://market.ionic.io/plugins/ionphaser)**
+
+# Credits
+- Ross: https://codepen.io/rossmartin/pen/XJmpQr
+- https://forum.ionicframework.com/t/ionic-elastichat-chat-demo-w-auto-resizing-textarea/13562
+
 # Happy coding
 Made with <3
 
