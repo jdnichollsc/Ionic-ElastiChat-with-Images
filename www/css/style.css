@@ -124,7 +124,8 @@
     overflow: visible !important; }
   .homeView .bar-footer textarea {
     resize: none;
-    height: 25px; }
+    height: 25px;
+    width: 100%; }
   .homeView button.ion-android-send {
     padding-top: 2px; }
   .homeView .footer-btn-wrap {
