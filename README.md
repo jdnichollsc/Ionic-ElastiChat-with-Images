@@ -25,6 +25,8 @@ Do you want to see this chat in action? Visit https://jdnichollsc.github.io/Ioni
 # Other Projects
 - **[Ionic Starter Template](http://market.ionic.io/starters/ionic-starter-template)**
 - **[IonPhaser](http://market.ionic.io/plugins/ionphaser)**
+- **[Ionic Drag and Drop](https://github.com/jdnichollsc/Ionic-Drag-and-Drop)**
+- **[Game of Drones (Ionic/Jasmine/Karma/Protractor/Node.js/MongoDB/Mongoose.js)](https://github.com/jdnichollsc/Game-of-Drones)**
 
 # Credits
 - Ross: https://codepen.io/rossmartin/pen/XJmpQr
