@@ -1,7 +1,7 @@
 {
-  "name": "app",
+  "name": "ionicelastichat",
   "version": "1.1.1",
-  "description": "Ionic: An Ionic project",
+  "description": "Ionic Magic Chat with Angular Elastic, Autolinker.js and more!",
   "devDependencies": {
     "bower": "^1.3.3",
     "del": "^2.2.0",

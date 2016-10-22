@@ -11,6 +11,8 @@
 Do you want to see this chat in action? Visit https://jdnichollsc.github.io/Ionic-ElastiChat-with-Images yay!
 > Automatically deployed to GitHub Pages using Gulp - Check the **last task** into [gulpfile.js](https://github.com/jdnichollsc/Ionic-Starter-Template/blob/master/gulpfile.js)
 
+* Preview the app using **[Ionic View App](http://view.ionic.io/)** with the ID: 8a460031
+
 #Instructions
 
 1. Download this template.
