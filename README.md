@@ -1,4 +1,4 @@
-#**The Best Ionic v1.x chat template**
+# **The Best Ionic v1.x chat template**
 
 <img width="auto" height="411px" src="https://s3.amazonaws.com/ionic-marketplace/ionic-elastichat-images/screenshot_1.png">
 <img width="auto" height="411px" src="https://s3.amazonaws.com/ionic-marketplace/ionic-elastichat-images/screenshot_2.png">
@@ -13,7 +13,7 @@ Do you want to see this chat in action? Visit https://jdnichollsc.github.io/Ioni
 
 * Preview the app using **[Ionic View App](http://view.ionic.io/)** with the ID: 8a460031
 
-#Instructions
+# Instructions
 
 1. Download this template.
 2. Execute the command `npm install`
