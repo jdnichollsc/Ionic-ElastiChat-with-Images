@@ -30,7 +30,7 @@ Do you want to see this chat in action? Visit https://jdnichollsc.github.io/Ioni
 - **[Ionic Drag and Drop](https://github.com/jdnichollsc/Ionic-Drag-and-Drop)**
 - **[Game of Drones](https://github.com/jdnichollsc/Game-of-Drones)**
 
-## Collaborators
+# Collaborators
 * [nadeemkhan](https://github.com/nadeemkhan) - **Nadeem Khan** &lt;nadeem7khan@gmail.com&gt;
 * [jdnichollsc](https://github.com/jdnichollsc) - **Juan David Nicholls** &lt;jdnichollsc@hotmail.com&gt;
 
