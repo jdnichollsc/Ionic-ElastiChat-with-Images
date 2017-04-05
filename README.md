@@ -30,6 +30,10 @@ Do you want to see this chat in action? Visit https://jdnichollsc.github.io/Ioni
 - **[Ionic Drag and Drop](https://github.com/jdnichollsc/Ionic-Drag-and-Drop)**
 - **[Game of Drones](https://github.com/jdnichollsc/Game-of-Drones)**
 
+## Collaborators
+* [nadeemkhan](https://github.com/nadeemkhan) - **Nadeem Khan** &lt;nadeem7khan@gmail.com&gt;
+* [jdnichollsc](https://github.com/jdnichollsc) - **Juan David Nicholls** &lt;jdnichollsc@hotmail.com&gt;
+
 # Credits
 - Ross: https://codepen.io/rossmartin/pen/XJmpQr
 - https://forum.ionicframework.com/t/ionic-elastichat-chat-demo-w-auto-resizing-textarea/13562
