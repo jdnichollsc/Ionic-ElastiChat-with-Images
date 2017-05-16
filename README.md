@@ -1,8 +1,9 @@
 # **The Best Ionic v1.x chat template**
 
-<img width="auto" height="411px" src="https://s3.amazonaws.com/ionic-marketplace/ionic-elastichat-images/screenshot_1.png">
-<img width="auto" height="411px" src="https://s3.amazonaws.com/ionic-marketplace/ionic-elastichat-images/screenshot_2.png">
+<img width="auto" height="411px" src="https://s3.amazonaws.com/ionic-marketplace/ionic-elastichat-images/screenshot_1.png">|
+<img width="auto" height="411px" src="https://s3.amazonaws.com/ionic-marketplace/ionic-elastichat-images/screenshot_2.png">|
 <img width="auto" height="411px" src="https://s3.amazonaws.com/ionic-marketplace/ionic-elastichat-images/screenshot_3.png">
+:---: |:---: |:---: |
 
 *Ionic Magic Chat with Angular Elastic, Autolinker.js and more!*
 
