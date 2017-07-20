@@ -39,6 +39,10 @@ Do you want to see this chat in action? Visit https://jdnichollsc.github.io/Ioni
 - Ross: https://codepen.io/rossmartin/pen/XJmpQr
 - https://forum.ionicframework.com/t/ionic-elastichat-chat-demo-w-auto-resizing-textarea/13562
 
+# Supporting
+I believe in Unicorns 🦄
+Support [me](http://www.paypal.me/jdnichollsc/2), if you do too.
+
 # Happy coding
 Made with <3
 
