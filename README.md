@@ -26,6 +26,7 @@ Do you want to see this chat in action? Visit https://jdnichollsc.github.io/Ioni
 ### **Note**: This project structure is based on my free **[Ionic Starter Template](http://market.ionic.io/starters/ionic-starter-template)**, you can migrate any Ionic 1.x project to this template to use Gulp in the best way. 
 
 # Other Projects
+- **[PokéDex GO - Community](https://github.com/proyecto26/PokeDex-GO)**
 - **[Ionic Starter Template](http://market.ionic.io/starters/ionic-starter-template)**
 - **[IonPhaser](http://market.ionic.io/plugins/ionphaser)**
 - **[Ionic Drag and Drop](https://github.com/jdnichollsc/Ionic-Drag-and-Drop)**
