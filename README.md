@@ -1,9 +1,18 @@
 # **The Best Ionic v1.x chat template**
 
-<img width="auto" height="411px" src="https://s3.amazonaws.com/ionic-marketplace/ionic-elastichat-images/screenshot_1.png">|
-<img width="auto" height="411px" src="https://s3.amazonaws.com/ionic-marketplace/ionic-elastichat-images/screenshot_2.png">|
-<img width="auto" height="411px" src="https://s3.amazonaws.com/ionic-marketplace/ionic-elastichat-images/screenshot_3.png">
-:---: |:---: |:---: |
+<table align="center">
+  <tr>
+    <td>
+      <img width="auto" height="411px" src="https://s3.amazonaws.com/ionic-marketplace/ionic-elastichat-images/screenshot_1.png">
+    </td>
+    <td>
+      <img width="auto" height="411px" src="https://s3.amazonaws.com/ionic-marketplace/ionic-elastichat-images/screenshot_2.png">
+    </td>
+    <td>
+      <img width="auto" height="411px" src="https://s3.amazonaws.com/ionic-marketplace/ionic-elastichat-images/screenshot_3.png">
+    </td>
+  </tr>
+</table>
 
 *Ionic Magic Chat with Angular Elastic, Autolinker.js and more!*
 
@@ -47,4 +56,4 @@ Support [me](http://www.paypal.me/jdnichollsc/2), if you do too.
 # Happy coding
 Made with <3
 
-<img width="150px" src="http://phaser.azurewebsites.net/assets/nicholls.png" align="right">
+<img width="150px" src="https://github.com/jdnichollsc/jdnichollsc.github.io/blob/master/assets/nicholls.png?raw=true" align="right">
